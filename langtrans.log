@@ -1,0 +1,197 @@
+2025-04-29 19:41:40,341 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 19:41:40,341 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 19:41:40,349 - INFO -  * Restarting with stat
+2025-04-29 19:41:41,144 - WARNING -  * Debugger is active!
+2025-04-29 19:41:41,154 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 19:43:47,738 - INFO - 127.0.0.1 - - [29/Apr/2025 19:43:47] "GET / HTTP/1.1" 200 -
+2025-04-29 19:43:47,781 - INFO - 127.0.0.1 - - [29/Apr/2025 19:43:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-29 19:44:00,884 - INFO - Detected language: fi
+2025-04-29 19:44:03,228 - INFO - Translated from fi to fr: Bonjour
+2025-04-29 19:44:03,268 - INFO - 127.0.0.1 - - [29/Apr/2025 19:44:03] "POST /translate HTTP/1.1" 200 -
+2025-04-29 19:44:15,321 - INFO - Detected language: fi
+2025-04-29 19:44:17,261 - INFO - Translated from fi to hi: \u0928\u092e\u0938\u094d\u0924\u0947
+2025-04-29 19:44:17,262 - INFO - 127.0.0.1 - - [29/Apr/2025 19:44:17] "POST /translate HTTP/1.1" 200 -
+2025-04-29 19:47:47,652 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 19:47:47,652 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 19:47:47,658 - INFO -  * Restarting with stat
+2025-04-29 19:47:48,479 - WARNING -  * Debugger is active!
+2025-04-29 19:47:48,484 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 19:48:17,648 - INFO - 127.0.0.1 - - [29/Apr/2025 19:48:17] "GET / HTTP/1.1" 200 -
+2025-04-29 19:48:29,260 - INFO - Detected language: nl
+2025-04-29 19:48:31,728 - INFO - Translated from nl to hi: \u0928\u092e\u0938\u094d\u0924\u0947
+2025-04-29 19:48:31,729 - INFO - 127.0.0.1 - - [29/Apr/2025 19:48:31] "POST /translate HTTP/1.1" 200 -
+2025-04-29 19:50:31,465 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 19:50:31,465 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 19:50:31,470 - INFO -  * Restarting with stat
+2025-04-29 19:50:32,259 - WARNING -  * Debugger is active!
+2025-04-29 19:50:32,265 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 19:50:51,171 - INFO - 127.0.0.1 - - [29/Apr/2025 19:50:51] "GET / HTTP/1.1" 200 -
+2025-04-29 19:51:04,431 - INFO - 127.0.0.1 - - [29/Apr/2025 19:51:04] "[35m[1mPOST /translate HTTP/1.1[0m" 500 -
+2025-04-29 19:51:04,557 - INFO - 127.0.0.1 - - [29/Apr/2025 19:51:04] "GET /translate?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-29 19:51:04,566 - INFO - 127.0.0.1 - - [29/Apr/2025 19:51:04] "GET /translate?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-29 19:51:04,629 - INFO - 127.0.0.1 - - [29/Apr/2025 19:51:04] "GET /translate?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-29 19:51:04,640 - INFO - 127.0.0.1 - - [29/Apr/2025 19:51:04] "[36mGET /translate?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-29 19:56:59,417 - INFO -  * Detected change in 'D:\\languageTranslator\\app.py', reloading
+2025-04-29 19:56:59,515 - INFO -  * Restarting with stat
+2025-04-29 19:57:00,405 - WARNING -  * Debugger is active!
+2025-04-29 19:57:00,416 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 19:57:14,862 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 19:57:14,862 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 19:57:14,865 - INFO -  * Restarting with stat
+2025-04-29 19:57:15,674 - WARNING -  * Debugger is active!
+2025-04-29 19:57:15,680 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 19:57:39,601 - INFO - 127.0.0.1 - - [29/Apr/2025 19:57:39] "GET / HTTP/1.1" 200 -
+2025-04-29 19:57:48,494 - INFO - Detected language: fi
+2025-04-29 19:57:51,346 - INFO - Translated from fi to hi: \u0928\u092e\u0938\u094d\u0924\u0947
+2025-04-29 19:57:56,573 - INFO - Saved speech to file: static\output.mp3
+2025-04-29 19:57:56,583 - INFO - 127.0.0.1 - - [29/Apr/2025 19:57:56] "POST /translate HTTP/1.1" 200 -
+2025-04-29 19:57:56,731 - INFO - 127.0.0.1 - - [29/Apr/2025 19:57:56] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-29 19:58:03,380 - INFO - 127.0.0.1 - - [29/Apr/2025 19:58:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-29 19:58:19,129 - INFO - 127.0.0.1 - - [29/Apr/2025 19:58:19] "GET / HTTP/1.1" 200 -
+2025-04-29 19:58:33,994 - INFO - Detected language: en
+2025-04-29 19:58:37,846 - INFO - Translated from en to hi: \u0928\u092e\u0938\u094d\u0924\u0947 \u0964\u0924\u0941\u092e \u0938\u092c \u0915\u0948\u0938\u0947 \u0939\u094b
+2025-04-29 19:58:39,172 - INFO - Saved speech to file: static\output.mp3
+2025-04-29 19:58:39,174 - INFO - 127.0.0.1 - - [29/Apr/2025 19:58:39] "POST /translate HTTP/1.1" 200 -
+2025-04-29 19:58:39,235 - INFO - 127.0.0.1 - - [29/Apr/2025 19:58:39] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-29 19:58:39,276 - INFO - 127.0.0.1 - - [29/Apr/2025 19:58:39] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-29 19:58:42,294 - INFO - 127.0.0.1 - - [29/Apr/2025 19:58:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-29 19:58:53,915 - INFO - 127.0.0.1 - - [29/Apr/2025 19:58:53] "GET / HTTP/1.1" 200 -
+2025-04-29 19:59:17,394 - INFO - Detected language: da
+2025-04-29 19:59:19,310 - INFO - Translated from da to en: Guten morning.Danke
+2025-04-29 19:59:21,564 - INFO - Saved speech to file: static\output.mp3
+2025-04-29 19:59:21,565 - INFO - 127.0.0.1 - - [29/Apr/2025 19:59:21] "POST /translate HTTP/1.1" 200 -
+2025-04-29 19:59:21,598 - INFO - 127.0.0.1 - - [29/Apr/2025 19:59:21] "GET /static/output.mp3 HTTP/1.1" 200 -
+2025-04-29 19:59:21,608 - INFO - 127.0.0.1 - - [29/Apr/2025 19:59:21] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-29 19:59:24,417 - INFO - 127.0.0.1 - - [29/Apr/2025 19:59:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-29 19:59:52,598 - INFO - 127.0.0.1 - - [29/Apr/2025 19:59:52] "GET / HTTP/1.1" 200 -
+2025-04-29 20:00:30,157 - ERROR - Translation error: invalid source language
+2025-04-29 20:00:30,159 - INFO - 127.0.0.1 - - [29/Apr/2025 20:00:30] "POST /translate HTTP/1.1" 200 -
+2025-04-29 20:00:49,002 - ERROR - Translation error: invalid source language
+2025-04-29 20:00:49,002 - INFO - 127.0.0.1 - - [29/Apr/2025 20:00:49] "POST /translate HTTP/1.1" 200 -
+2025-04-29 20:01:06,550 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 20:01:06,550 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 20:01:06,558 - INFO -  * Restarting with stat
+2025-04-29 20:01:07,321 - WARNING -  * Debugger is active!
+2025-04-29 20:01:07,326 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 20:01:31,643 - INFO - 127.0.0.1 - - [29/Apr/2025 20:01:31] "GET / HTTP/1.1" 200 -
+2025-04-29 20:01:47,548 - INFO - Detected language: af
+2025-04-29 20:01:50,863 - INFO - Translated from af to en: Vielen thanks
+2025-04-29 20:01:53,431 - INFO - Saved speech to file: static\output.mp3
+2025-04-29 20:01:53,439 - INFO - 127.0.0.1 - - [29/Apr/2025 20:01:53] "POST /translate HTTP/1.1" 200 -
+2025-04-29 20:01:53,628 - INFO - 127.0.0.1 - - [29/Apr/2025 20:01:53] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-29 20:01:58,279 - INFO - 127.0.0.1 - - [29/Apr/2025 20:01:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-29 20:08:49,636 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 20:08:49,636 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 20:08:49,643 - INFO -  * Restarting with stat
+2025-04-29 20:08:50,420 - WARNING -  * Debugger is active!
+2025-04-29 20:08:50,468 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 20:09:26,081 - INFO - 127.0.0.1 - - [29/Apr/2025 20:09:26] "GET / HTTP/1.1" 200 -
+2025-04-29 20:13:15,846 - INFO - 127.0.0.1 - - [29/Apr/2025 20:13:15] "[35m[1mPOST /translate HTTP/1.1[0m" 500 -
+2025-04-29 20:13:15,958 - INFO - 127.0.0.1 - - [29/Apr/2025 20:13:15] "[36mGET /translate?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-29 20:13:15,960 - INFO - 127.0.0.1 - - [29/Apr/2025 20:13:15] "[36mGET /translate?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-29 20:13:15,995 - INFO - 127.0.0.1 - - [29/Apr/2025 20:13:15] "[36mGET /translate?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-29 20:13:16,002 - INFO - 127.0.0.1 - - [29/Apr/2025 20:13:16] "[36mGET /translate?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-29 20:13:55,703 - INFO - 127.0.0.1 - - [29/Apr/2025 20:13:55] "[35m[1mPOST /translate HTTP/1.1[0m" 500 -
+2025-04-29 20:13:55,730 - INFO - 127.0.0.1 - - [29/Apr/2025 20:13:55] "[36mGET /translate?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-29 20:13:55,730 - INFO - 127.0.0.1 - - [29/Apr/2025 20:13:55] "[36mGET /translate?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-29 20:13:55,752 - INFO - 127.0.0.1 - - [29/Apr/2025 20:13:55] "[36mGET /translate?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-29 20:16:29,344 - INFO -  * Detected change in 'D:\\languageTranslator\\app.py', reloading
+2025-04-29 20:16:29,474 - INFO -  * Restarting with stat
+2025-04-29 20:16:30,335 - WARNING -  * Debugger is active!
+2025-04-29 20:16:30,342 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 20:16:40,091 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 20:16:40,093 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 20:16:40,096 - INFO -  * Restarting with stat
+2025-04-29 20:16:40,871 - WARNING -  * Debugger is active!
+2025-04-29 20:16:40,878 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 20:16:50,436 - INFO - 127.0.0.1 - - [29/Apr/2025 20:16:50] "[31m[1mGET /translate HTTP/1.1[0m" 405 -
+2025-04-29 20:17:38,599 - INFO - 127.0.0.1 - - [29/Apr/2025 20:17:38] "GET / HTTP/1.1" 200 -
+2025-04-29 20:18:03,700 - INFO - Detected language: en
+2025-04-29 20:18:06,130 - INFO - Translated from en to hi: \u0915\u0908 \u0905\u0932\u0917 -\u0905\u0932\u0917 \u092a\u094d\u0930\u0915\u093e\u0930 \u0915\u0947 \u091c\u093e\u0928\u0935\u0930 \u0939\u0948\u0902 \u091c\u094b \u091a\u0940\u0928 \u092e\u0947\u0902 \u0930\u0939\u0924\u0947 \u0939\u0948\u0902\u0964
+2025-04-29 20:18:08,226 - INFO - Saved speech to file: static\output.mp3
+2025-04-29 20:18:08,232 - INFO - 127.0.0.1 - - [29/Apr/2025 20:18:08] "POST /translate HTTP/1.1" 200 -
+2025-04-29 20:18:08,370 - INFO - 127.0.0.1 - - [29/Apr/2025 20:18:08] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-29 20:18:08,417 - INFO - 127.0.0.1 - - [29/Apr/2025 20:18:08] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-29 20:19:23,847 - INFO - 127.0.0.1 - - [29/Apr/2025 20:19:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-29 20:19:26,681 - INFO - 127.0.0.1 - - [29/Apr/2025 20:19:26] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-29 20:20:47,069 - INFO - Detected language: en
+2025-04-29 20:20:50,286 - INFO - Translated from en to hi: \u0915\u0908 \u0905\u0932\u0917 -\u0905\u0932\u0917 \u092a\u094d\u0930\u0915\u093e\u0930 \u0915\u0947 \u091c\u093e\u0928\u0935\u0930 \u0939\u0948\u0902 \u091c\u094b \u091a\u0940\u0928 \u092e\u0947\u0902 \u0930\u0939\u0924\u0947 \u0939\u0948\u0902\u0964\u092c\u093e\u0918 \u0914\u0930 \u0924\u0947\u0902\u0926\u0941\u090f \u091c\u093e\u0928\u0935\u0930 \u0939\u0948\u0902 \u091c\u094b \u0909\u0924\u094d\u0924\u0930 \u092e\u0947\u0902 \u091a\u0940\u0928 \u0915\u0947 \u091c\u0902\u0917\u0932\u094b\u0902 \u092e\u0947\u0902 \u0930\u0939\u0924\u0947 \u0939\u0948\u0902\u0964\u091c\u0902\u0917\u0932\u094b\u0902 \u092e\u0947\u0902, \u092c\u0902\u0926\u0930 \u092a\u0947\u0921\u093c\u094b\u0902 \u092e\u0947\u0902 \u091d\u0942\u0932\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u0939\u093e\u0925\u0940 \u092c\u094d\u0930\u0936 \u0915\u0947 \u092e\u093e\u0927\u094d\u092f\u092e \u0938\u0947 \u091a\u0932\u0924\u0947 \u0939\u0948\u0902\u0964
+2025-04-29 20:20:57,559 - INFO - Saved speech to file: static\output.mp3
+2025-04-29 20:20:57,561 - INFO - 127.0.0.1 - - [29/Apr/2025 20:20:57] "POST /translate HTTP/1.1" 200 -
+2025-04-29 20:20:57,648 - INFO - 127.0.0.1 - - [29/Apr/2025 20:20:57] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-29 20:22:30,516 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 20:22:30,516 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 20:22:30,520 - INFO -  * Restarting with stat
+2025-04-29 20:22:31,336 - WARNING -  * Debugger is active!
+2025-04-29 20:22:31,348 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 20:22:35,512 - INFO - 127.0.0.1 - - [29/Apr/2025 20:22:35] "GET / HTTP/1.1" 200 -
+2025-04-29 20:22:57,813 - INFO - Detected language: en
+2025-04-29 20:23:00,473 - INFO - Translated from en to fr: Il existe de nombreux types d'animaux qui vivent en Chine.Les tigres et les léopards sont des animaux qui vivent dans les forêts chinoises dans le nord.Dans les jungles, les singes se balancent dans les arbres et les éléphants traversent la brosse.
+2025-04-29 20:23:08,325 - INFO - Saved speech to file: static\output.mp3
+2025-04-29 20:23:08,331 - INFO - 127.0.0.1 - - [29/Apr/2025 20:23:08] "POST /translate HTTP/1.1" 200 -
+2025-04-29 20:23:08,458 - INFO - 127.0.0.1 - - [29/Apr/2025 20:23:08] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-29 20:28:52,700 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-29 20:28:52,700 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-29 20:28:52,704 - INFO -  * Restarting with stat
+2025-04-29 20:28:53,463 - WARNING -  * Debugger is active!
+2025-04-29 20:28:53,469 - INFO -  * Debugger PIN: 573-636-422
+2025-04-29 20:30:23,886 - INFO - 127.0.0.1 - - [29/Apr/2025 20:30:23] "GET / HTTP/1.1" 200 -
+2025-04-29 20:32:01,595 - INFO - Detected language: en
+2025-04-29 20:32:04,083 - INFO - Translated from en to hi: \u0936\u0941\u0930\u0941\u0906\u0924\u0940 \u0932\u094b\u0917\u094b\u0902 \u0915\u0947 \u0932\u093f\u090f \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940 \u092a\u093e\u0920 \u092a\u0922\u093c\u0928\u0947 \u0914\u0930 \u0911\u0928\u0932\u093e\u0907\u0928 \u092a\u0922\u093c\u0928\u0947 \u0915\u093e \u0905\u092d\u094d\u092f\u093e\u0938 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0914\u0930 \u092e\u0941\u092b\u094d\u0924 \u092e\u0947\u0902\u0964\u0932\u093f\u0916\u093f\u0924 \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u0940 \u0915\u0940 \u0905\u092a\u0928\u0940 \u0938\u092e\u091d \u0915\u093e \u0905\u092d\u094d\u092f\u093e\u0938 \u0915\u0930\u0928\u0947 \u0938\u0947 \u0906\u092a\u0915\u0940 \u0936\u092c\u094d\u0926\u093e\u0935\u0932\u0940 \u0914\u0930 \u0935\u094d\u092f\u093e\u0915\u0930\u0923 \u0914\u0930 \u0936\u092c\u094d\u0926 \u0915\u094d\u0930\u092e \u0915\u0940 \u0938\u092e\u091d \u092e\u0947\u0902 \u0938\u0941\u0927\u093e\u0930 \u0939\u094b\u0917\u093e\u0964\u0928\u0940\u091a\u0947 \u0926\u093f\u090f \u0917\u090f \u0917\u094d\u0930\u0902\u0925\u094b\u0902 \u0915\u094b \u0906\u092a\u0915\u0940 \u092a\u094d\u0930\u0917\u0924\u093f \u0915\u093e \u0924\u0924\u094d\u0915\u093e\u0932 \u092e\u0942\u0932\u094d\u092f\u093e\u0902\u0915\u0928 \u0926\u0947\u0924\u0947 \u0939\u0941\u090f \u0906\u092a\u0915\u094b \u0935\u093f\u0915\u0938\u093f\u0924 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948\u0964
+2025-04-29 20:32:14,630 - INFO - Saved speech to file: static\output.mp3
+2025-04-29 20:32:14,645 - INFO - 127.0.0.1 - - [29/Apr/2025 20:32:14] "POST /translate HTTP/1.1" 200 -
+2025-04-30 11:29:14,742 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 11:29:14,743 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 11:29:14,747 - INFO -  * Restarting with stat
+2025-04-30 11:29:15,486 - WARNING -  * Debugger is active!
+2025-04-30 11:29:15,493 - INFO -  * Debugger PIN: 573-636-422
+2025-04-30 11:29:18,677 - INFO - 127.0.0.1 - - [30/Apr/2025 11:29:18] "GET / HTTP/1.1" 200 -
+2025-04-30 11:29:18,802 - INFO - 127.0.0.1 - - [30/Apr/2025 11:29:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-30 11:30:14,835 - INFO - Detected language: en
+2025-04-30 11:30:16,976 - INFO - Translated from en to hi: \u0905\u092a\u0928\u0947 \u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u0921\u093e\u0932\u0928\u0947 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0928\u093f\u0930\u094d\u0923\u092f \u0935\u093f\u091a\u093e\u0930\u094b\u0902 \u0915\u0947 \u090f\u0915 \u092c\u0940\u091c \u0915\u0947 \u0905\u0902\u0915\u0941\u0930\u0923 \u0915\u0947 \u0938\u093e\u0925 \u0936\u0941\u0930\u0942 \u0939\u094b\u0924\u093e \u0939\u0948;\u0907\u0938 "\u0905\u0902\u0915\u0941\u0930\u0923 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e" \u0915\u094b \u092e\u0902\u0925\u0928 \u0915\u0947 \u0930\u0942\u092a \u092e\u0947\u0902 \u091c\u093e\u0928\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964\u092e\u0902\u0925\u0928 \u0915\u0947 \u0932\u093f\u090f \u0915\u0908 \u0924\u0915\u0928\u0940\u0915\u0947\u0902 \u0939\u0948\u0902;\u0906\u092a \u091c\u094b \u092d\u0940 \u091a\u0941\u0928\u0924\u0947 \u0939\u0948\u0902, \u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u0935\u093f\u0915\u093e\u0938 \u0915\u0947 \u0907\u0938 \u091a\u0930\u0923 \u0915\u094b \u091b\u094b\u0921\u093c \u0928\u0939\u0940\u0902 \u0926\u093f\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e \u0939\u0948\u0964\u092c\u093f\u0932\u094d\u0921\u093f\u0902\u0917 \u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u090f\u0915 \u0917\u0917\u0928\u091a\u0941\u0902\u092c\u0940 \u0907\u092e\u093e\u0930\u0924 \u0915\u0947 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u0915\u0940 \u0924\u0930\u0939 \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948: \u090f\u0915 \u0905\u091a\u094d\u091b\u0940 \u0924\u0930\u0939 \u0938\u0947 \u0928\u093f\u092f\u094b\u091c\u093f\u0924 \u0928\u0940\u0902\u0935 \u0939\u094b\u0928\u0940 \u091a\u093e\u0939\u093f\u090f \u091c\u094b \u0906\u092a \u092c\u0928\u093e \u0930\u0939\u0947 \u0939\u0948\u0902\u0964\u0915\u094b\u0908 \u092d\u0940 \u0926\u0930\u093e\u0930, \u0935\u093f\u0938\u0902\u0917\u0924\u093f\u092f\u093e\u0902, \u092f\u093e \u0928\u0940\u0902\u0935 \u0915\u0947 \u0905\u0928\u094d\u092f \u092d\u094d\u0930\u0937\u094d\u091f\u093e\u091a\u093e\u0930 \u0906\u092a\u0915\u0947 \u092a\u0942\u0930\u0947 \u0915\u093e\u0917\u091c \u0915\u094b \u0909\u0916\u0921\u093c \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964
+2025-04-30 11:30:24,832 - INFO - Saved speech to file: static\output.mp3
+2025-04-30 11:30:24,919 - INFO - 127.0.0.1 - - [30/Apr/2025 11:30:24] "POST /translate HTTP/1.1" 200 -
+2025-04-30 11:36:03,204 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 11:36:03,204 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 11:36:03,208 - INFO -  * Restarting with stat
+2025-04-30 11:36:03,961 - WARNING -  * Debugger is active!
+2025-04-30 11:36:03,967 - INFO -  * Debugger PIN: 573-636-422
+2025-04-30 11:36:26,780 - INFO - 127.0.0.1 - - [30/Apr/2025 11:36:26] "GET / HTTP/1.1" 200 -
+2025-04-30 11:36:45,458 - INFO - Detected language: en
+2025-04-30 11:36:47,109 - INFO - Translated from en to hi: \u0905\u092a\u0928\u0947 \u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u092e\u0947\u0902 \u0915\u094d\u092f\u093e \u0921\u093e\u0932\u0928\u0947 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0928\u093f\u0930\u094d\u0923\u092f \u0935\u093f\u091a\u093e\u0930\u094b\u0902 \u0915\u0947 \u090f\u0915 \u092c\u0940\u091c \u0915\u0947 \u0905\u0902\u0915\u0941\u0930\u0923 \u0915\u0947 \u0938\u093e\u0925 \u0936\u0941\u0930\u0942 \u0939\u094b\u0924\u093e \u0939\u0948;\u0907\u0938 "\u0905\u0902\u0915\u0941\u0930\u0923 \u092a\u094d\u0930\u0915\u094d\u0930\u093f\u092f\u093e" \u0915\u094b \u092e\u0902\u0925\u0928 \u0915\u0947 \u0930\u0942\u092a \u092e\u0947\u0902 \u091c\u093e\u0928\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964\u092e\u0902\u0925\u0928 \u0915\u0947 \u0932\u093f\u090f \u0915\u0908 \u0924\u0915\u0928\u0940\u0915\u0947\u0902 \u0939\u0948\u0902;\u0906\u092a \u091c\u094b \u092d\u0940 \u091a\u0941\u0928\u0924\u0947 \u0939\u0948\u0902, \u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u0935\u093f\u0915\u093e\u0938 \u0915\u0947 \u0907\u0938 \u091a\u0930\u0923 \u0915\u094b \u091b\u094b\u0921\u093c \u0928\u0939\u0940\u0902 \u0926\u093f\u092f\u093e \u091c\u093e \u0938\u0915\u0924\u093e \u0939\u0948\u0964\u092c\u093f\u0932\u094d\u0921\u093f\u0902\u0917 \u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u090f\u0915 \u0917\u0917\u0928\u091a\u0941\u0902\u092c\u0940 \u0907\u092e\u093e\u0930\u0924 \u0915\u0947 \u0928\u093f\u0930\u094d\u092e\u093e\u0923 \u0915\u0940 \u0924\u0930\u0939 \u0939\u094b \u0938\u0915\u0924\u093e \u0939\u0948: \u090f\u0915 \u0905\u091a\u094d\u091b\u0940 \u0924\u0930\u0939 \u0938\u0947 \u0928\u093f\u092f\u094b\u091c\u093f\u0924 \u0928\u0940\u0902\u0935 \u0939\u094b\u0928\u0940 \u091a\u093e\u0939\u093f\u090f \u091c\u094b \u0906\u092a \u092c\u0928\u093e \u0930\u0939\u0947 \u0939\u0948\u0902\u0964\u0915\u094b\u0908 \u092d\u0940 \u0926\u0930\u093e\u0930, \u0935\u093f\u0938\u0902\u0917\u0924\u093f\u092f\u093e\u0902, \u092f\u093e \u0928\u0940\u0902\u0935 \u0915\u0947 \u0905\u0928\u094d\u092f \u092d\u094d\u0930\u0937\u094d\u091f\u093e\u091a\u093e\u0930 \u0906\u092a\u0915\u0947 \u092a\u0942\u0930\u0947 \u0915\u093e\u0917\u091c \u0915\u094b \u0909\u0916\u0921\u093c \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964
+2025-04-30 11:36:55,615 - INFO - Saved speech to file: static\output.mp3
+2025-04-30 11:36:55,630 - INFO - 127.0.0.1 - - [30/Apr/2025 11:36:55] "POST /translate HTTP/1.1" 200 -
+2025-04-30 11:42:15,176 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-30 11:42:15,176 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-30 11:42:15,179 - INFO -  * Restarting with stat
+2025-04-30 11:42:15,980 - WARNING -  * Debugger is active!
+2025-04-30 11:42:15,986 - INFO -  * Debugger PIN: 573-636-422
+2025-04-30 11:42:32,647 - INFO - 127.0.0.1 - - [30/Apr/2025 11:42:32] "GET / HTTP/1.1" 200 -
+2025-04-30 11:43:12,859 - INFO - Detected language: en
+2025-04-30 11:43:20,544 - INFO - Translated from en to hi: \u0932\u0947\u0916\u0928 \u0935\u093f\u0936\u0947\u0937\u091c\u094d\u091e \u0924\u0940\u0928 \u0938\u0947 \u0906\u0920 \u0935\u093e\u0915\u094d\u092f\u094b\u0902 \u092e\u0947\u0902 150 \u0938\u0947 \u0905\u0927\u093f\u0915 \u0936\u092c\u094d\u0926\u094b\u0902 \u0915\u0947 \u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u0915\u0940 \u0938\u0932\u093e\u0939 \u0926\u0947\u0924\u0947 \u0939\u0948\u0902\u0964\u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u0915\u092d\u0940 \u092d\u0940 250 \u0936\u092c\u094d\u0926\u094b\u0902 \u0938\u0947 \u0905\u0927\u093f\u0915 \u0928\u0939\u0940\u0902 \u0939\u094b\u0928\u093e \u091a\u093e\u0939\u093f\u090f\u0964\u0909\u0928\u094d\u0939\u0947\u0902 \u0914\u0930 \u0905\u0927\u093f\u0915 \u0926\u093f\u0932\u091a\u0938\u094d\u092a \u092c\u0928\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0905\u092a\u0928\u0947 \u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u0915\u0940 \u0932\u0902\u092c\u093e\u0908 \u0915\u094b \u092d\u093f\u0928\u094d\u0928 \u0915\u0930\u0947\u0902\u0964\u0935\u093e\u0915\u094d\u092f \u0915\u0940 \u0932\u0902\u092c\u093e\u0908 \u0915\u0947 \u0938\u093e\u0925, \u092f\u0926\u093f \u0938\u092d\u0940 \u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u090f\u0915 \u0939\u0940 \u0906\u0915\u093e\u0930 \u0915\u0947 \u0939\u0948\u0902, \u0924\u094b \u0906\u092a\u0915\u093e \u0932\u0947\u0916\u0928 \u0924\u0921\u093c\u0915\u093e \u0939\u094b\u0917\u093e\u0964
+
+\u090f\u0915 \u0938\u093e\u092e\u092f\u093f\u0915 \u090f\u0915-\u0935\u093e\u0915\u094d\u092f \u092a\u0948\u0930\u093e\u0917\u094d\u0930\u093e\u092b \u0915\u0947 \u0938\u093e\u0925 \u0915\u0941\u091b \u092d\u0940 \u0917\u0932\u0924 \u0928\u0939\u0940\u0902 \u0939\u0948\u0964
+2025-04-30 11:43:26,676 - INFO - Saved speech to file: static\output.mp3
+2025-04-30 11:43:26,690 - INFO - 127.0.0.1 - - [30/Apr/2025 11:43:26] "POST /translate HTTP/1.1" 200 -
+2025-04-30 11:43:26,887 - INFO - 127.0.0.1 - - [30/Apr/2025 11:43:26] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-30 11:43:29,397 - INFO - 127.0.0.1 - - [30/Apr/2025 11:43:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-30 11:43:32,341 - INFO - 127.0.0.1 - - [30/Apr/2025 11:43:32] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
+2025-04-30 11:44:07,621 - INFO - Detected language: en
+2025-04-30 11:44:08,966 - INFO - Translated from en to hi: \u0939\u092e\u0928\u0947 CHATGPT \u0928\u093e\u092e\u0915 \u090f\u0915 \u092e\u0949\u0921\u0932 \u0915\u094b \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u093f\u0924 \u0915\u093f\u092f\u093e \u0939\u0948 \u091c\u094b \u090f\u0915 \u0938\u0902\u0935\u093e\u0926\u0940 \u0924\u0930\u0940\u0915\u0947 \u0938\u0947 \u092c\u093e\u0924\u091a\u0940\u0924 \u0915\u0930\u0924\u093e \u0939\u0948\u0964\u0938\u0902\u0935\u093e\u0926 \u092a\u094d\u0930\u093e\u0930\u0942\u092a \u091a\u0948\u091f \u0915\u0947 \u0932\u093f\u090f \u092b\u0949\u0932\u094b\u0905\u092a \u092a\u094d\u0930\u0936\u094d\u0928\u094b\u0902 \u0915\u093e \u0909\u0924\u094d\u0924\u0930 \u0926\u0947\u0928\u093e, \u0905\u092a\u0928\u0940 \u0917\u0932\u0924\u093f\u092f\u094b\u0902 \u0915\u094b \u0938\u094d\u0935\u0940\u0915\u093e\u0930 \u0915\u0930\u0928\u093e, \u0917\u0932\u0924 \u092a\u0930\u093f\u0938\u0930 \u0915\u094b \u091a\u0941\u0928\u094c\u0924\u0940 \u0926\u0947\u0928\u093e \u0914\u0930 \u0905\u0928\u0941\u091a\u093f\u0924 \u0905\u0928\u0941\u0930\u094b\u0927\u094b\u0902 \u0915\u094b \u0905\u0938\u094d\u0935\u0940\u0915\u093e\u0930 \u0915\u0930\u0928\u093e \u0938\u0902\u092d\u0935 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964
+
+CHATGPT \u0928\u093f\u0930\u094d\u0926\u0947\u0936 \u0926\u0947\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u090f\u0915 \u092d\u093e\u0908 -\u092c\u0939\u0928 \u092e\u0949\u0921\u0932 \u0939\u0948, \u091c\u093f\u0938\u0947 \u090f\u0915 \u0938\u0902\u0915\u0947\u0924 \u092e\u0947\u0902 \u090f\u0915 \u0928\u093f\u0930\u094d\u0926\u0947\u0936 \u0915\u093e \u092a\u093e\u0932\u0928 \u0915\u0930\u0928\u0947 \u0914\u0930 \u090f\u0915 \u0935\u093f\u0938\u094d\u0924\u0943\u0924 \u092a\u094d\u0930\u0924\u093f\u0915\u094d\u0930\u093f\u092f\u093e \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u093f\u0924 \u0915\u093f\u092f\u093e \u091c\u093e\u0924\u093e \u0939\u0948\u0964
+2025-04-30 11:44:16,032 - INFO - Saved speech to file: static\output.mp3
+2025-04-30 11:44:16,070 - INFO - 127.0.0.1 - - [30/Apr/2025 11:44:16] "POST /translate HTTP/1.1" 200 -
+2025-04-30 11:44:16,136 - INFO - 127.0.0.1 - - [30/Apr/2025 11:44:16] "[35m[1mGET /static/output.mp3 HTTP/1.1[0m" 206 -
